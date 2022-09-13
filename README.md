@@ -1,6 +1,6 @@
 # streamlit-multipage-authentication
 
-# Add a User Authentication Service (Login Form) in Streamlit
+### Add a User Authentication Service (Login Form) in Streamlit
 
 In this video, I will show you how to add a user authentication service (login form) in Streamlit so that your users can log in and see the content of your streamlit app. To implement the user authentication, we will use the ‘streamlit-authenticator’ library, a secure authentication module to validate user credentials in a Streamlit application.
 
