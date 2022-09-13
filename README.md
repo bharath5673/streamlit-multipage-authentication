@@ -7,9 +7,6 @@ In this video, I will show you how to add a user authentication service (login f
 ## Video Tutorial
 [![YouTube Video](https://img.youtube.com/vi/JoFGrSRj4X4/0.jpg)](https://youtu.be/JoFGrSRj4X4)
 
-## Demo Website
-⭐ https://userauth-dashboard.herokuapp.com/
-
 ## Screenshot
 ![Login Screenshot](/demo.jpg?raw=true "Login Form")
 
